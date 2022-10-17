@@ -104,8 +104,6 @@ nav{
 .intro{
   box-sizing: border-box;
   background-color: #F5EEF8 ;
-  margin: 7px;
-  border-radius: 6px;
 }
 
 .intro-row h3{
